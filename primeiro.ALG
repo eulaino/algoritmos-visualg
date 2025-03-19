@@ -1,8 +1,8 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lï¿½gica de Programaï¿½ï¿½o]
-// Professor   : Antonio Carlos Nicolodi 
-// Descriï¿½ï¿½o   : Aqui vocï¿½ descreve o que o programa faz! (funï¿½ï¿½o)
-// Autor(a)    : Nome do(a) aluno(a)
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Rafael Monteiro
+// Descrição   : Calculadora
+// Autor(a)    : João Laino
 // Data atual  : 14/03/2025
 Var
 // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
